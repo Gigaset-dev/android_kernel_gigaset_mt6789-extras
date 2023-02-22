@@ -1,0 +1,3 @@
+source "techpack/gpu/mt6789/mali_valhall/mali-r32p1/drivers/gpu/arm/Makefile"
+source "techpack/gpu/mt6789/mali_valhall/mali-r32p1/drivers/base/arm/Makefile"
+
